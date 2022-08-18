@@ -1,4 +1,4 @@
-# k8s-version-opa
+# k8s-version-gatekeeper
 OPA policies to prevent old k8s API versions usage 
 
 Reference:
